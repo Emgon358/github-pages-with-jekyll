@@ -1,4 +1,4 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "Github pages - the beginning"
+date: 2021-06-29
 ---
